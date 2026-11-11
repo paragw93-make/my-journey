@@ -27,6 +27,10 @@ export {
   blacklogo,
   one,
   ai,
+  techy,
+  tech,
+  todo,
+  survey,
   fusion,
   teaching,
   printables
